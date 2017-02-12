@@ -1,6 +1,7 @@
 package Bot::IRC::X::MetarTaf;
 # ABSTRACT: Bot::IRC plugin for METAR and TAF reporting
 
+use 5.012;
 use strict;
 use warnings;
 
