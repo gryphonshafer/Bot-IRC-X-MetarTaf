@@ -92,9 +92,7 @@ You can look for additional information at:
 =for :list
 * L<Bot::IRC>
 * L<GitHub|https://github.com/gryphonshafer/Bot-IRC-X-MetarTaf>
-* L<CPAN|http://search.cpan.org/dist/Bot-IRC-X-MetarTaf>
 * L<MetaCPAN|https://metacpan.org/pod/Bot::IRC::X::MetarTaf>
-* L<AnnoCPAN|http://annocpan.org/dist/Bot-IRC-X-MetarTaf>
 * L<Travis CI|https://travis-ci.org/gryphonshafer/Bot-IRC-X-MetarTaf>
 * L<Coveralls|https://coveralls.io/r/gryphonshafer/Bot-IRC-X-MetarTaf>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/Bot-IRC-X-MetarTaf>
