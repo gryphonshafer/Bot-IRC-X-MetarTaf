@@ -64,8 +64,8 @@ __END__
 =begin :badges
 
 =for markdown
-[![Build Status](https://travis-ci.org/gryphonshafer/Bot-IRC-X-MetarTaf.svg)](https://travis-ci.org/gryphonshafer/Bot-IRC-X-MetarTaf)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Bot-IRC-X-MetarTaf/badge.png)](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-MetarTaf)
+[![build](https://github.com/gryphonshafer/Bot-IRC-X-MetarTaf/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-MetarTaf/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-MetarTaf/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-MetarTaf)
 
 =end :badges
 
@@ -93,8 +93,8 @@ You can look for additional information at:
 * L<Bot::IRC>
 * L<GitHub|https://github.com/gryphonshafer/Bot-IRC-X-MetarTaf>
 * L<MetaCPAN|https://metacpan.org/pod/Bot::IRC::X::MetarTaf>
-* L<Travis CI|https://travis-ci.org/gryphonshafer/Bot-IRC-X-MetarTaf>
-* L<Coveralls|https://coveralls.io/r/gryphonshafer/Bot-IRC-X-MetarTaf>
+* L<GitHub Actions|https://github.com/gryphonshafer/Bot-IRC-X-MetarTaf/actions>
+* L<Codecov|https://codecov.io/gh/gryphonshafer/Bot-IRC-X-MetarTaf>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/Bot-IRC-X-MetarTaf>
 * L<CPAN Testers|http://www.cpantesters.org/distro/T/Bot-IRC-X-MetarTaf.html>
 
