@@ -2,8 +2,7 @@ package Bot::IRC::X::MetarTaf;
 # ABSTRACT: Bot::IRC plugin for METAR and TAF reporting
 
 use 5.014;
-use strict;
-use warnings;
+use exact;
 
 use LWP::Simple 'get';
 
